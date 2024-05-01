@@ -1,0 +1,9 @@
+br\com\pucminas\aed3\model\BytesUtils.class
+br\com\pucminas\aed3\view\Menu.class
+br\com\pucminas\aed3\controller\AnimeIMDBController.class
+br\com\pucminas\aed3\model\AnimeIMDB.class
+br\com\pucminas\aed3\view\Tela.class
+br\com\pucminas\aed3\view\Ops_menus.class
+br\com\pucminas\aed3\Aed3Application.class
+br\com\pucminas\aed3\view\Screen.class
+br\com\pucminas\aed3\view\TelaCRUD.class
